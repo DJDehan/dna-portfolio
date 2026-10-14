@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/dna-portfolio-v2.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/dna-portfolio-v2"
+  to = "/"
+  status = 301
